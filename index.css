@@ -21,7 +21,8 @@ img {
 
 h1 {
         text-align: center;
-        padding: 2em 2em;
+        padding: 2em;
+        padding-left: 2em;
       }
 
       #navbar {
