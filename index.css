@@ -14,12 +14,13 @@ img {
   justify-content: center;
   align-items: center;
   height: 100vh;
-        background: #C19A6B;
+/*         background: #C19A6B; */
 
       }
 
 h1 {
         text-align: center;
+        padding: 2em;
       }
 
       #navbar {
