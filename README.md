@@ -2,7 +2,7 @@
 
 This is a place where people can learn more about me, and the work I've done.
 
-**[Link to the portfolio](https://shanewidanagama.github.io/Portfolio/)**
+**[Link to the portfolio](https://shanewidanagama.github.io/)**
 
 ![Portfolio Screenshot](https://github.com/shanewidanagama/Portfolio/assets/46659817/0d13655b-e6b5-41bc-95ef-1603bfcab0b7)
 
