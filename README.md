@@ -16,7 +16,7 @@ I built this site by implementing features from highest to lowest priority. For 
 - Break the app down into React components to increase maintainability
 - Implement Flexbox or CSS Grid to increase page responsiveness
 
-# See more of my applications and automation
+# See More
 - [Trick Shot E-Commerce Client](https://github.com/shanewidanagama/trick-shot-ecommerce-client)
 - [Reusable Spring Boot App Workflows](https://github.com/kevdev424/spring-petclinic)
 - [simpleParallax.js Quickstart Guide](https://github.com/shanewidanagama/SimpleParallax.js-analysis)
